@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\MsDotNet\Serialisation\FileIOApp\obj\Debug\net8.0\FileIOApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\MsDotNet\Serialisation\FileIOApp\obj\Debug\net8.0\FileIOApp.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\MsDotNet\Serialisation\FileIOApp\obj\Debug\net8.0\FileIOApp.AssemblyInfo.cs
+C:\Users\IET\Desktop\MsDotNet\Serialisation\FileIOApp\obj\Debug\net8.0\FileIOApp.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\MsDotNet\Serialisation\FileIOApp\bin\Debug\net8.0\FileIOApp.exe
+C:\Users\IET\Desktop\MsDotNet\Serialisation\FileIOApp\bin\Debug\net8.0\FileIOApp.deps.json
+C:\Users\IET\Desktop\MsDotNet\Serialisation\FileIOApp\bin\Debug\net8.0\FileIOApp.runtimeconfig.json
+C:\Users\IET\Desktop\MsDotNet\Serialisation\FileIOApp\bin\Debug\net8.0\FileIOApp.dll
+C:\Users\IET\Desktop\MsDotNet\Serialisation\FileIOApp\bin\Debug\net8.0\FileIOApp.pdb
+C:\Users\IET\Desktop\MsDotNet\Serialisation\FileIOApp\obj\Debug\net8.0\FileIOApp.dll
+C:\Users\IET\Desktop\MsDotNet\Serialisation\FileIOApp\obj\Debug\net8.0\refint\FileIOApp.dll
+C:\Users\IET\Desktop\MsDotNet\Serialisation\FileIOApp\obj\Debug\net8.0\FileIOApp.pdb
+C:\Users\IET\Desktop\MsDotNet\Serialisation\FileIOApp\obj\Debug\net8.0\FileIOApp.genruntimeconfig.cache
+C:\Users\IET\Desktop\MsDotNet\Serialisation\FileIOApp\obj\Debug\net8.0\ref\FileIOApp.dll
